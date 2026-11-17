@@ -1,0 +1,6 @@
+{
+  "name": "CR7 Legacy: Trofeos, Juego & Vida Luxury",
+  "description": "Explora el palmarés histórico de Cristiano Ronaldo con fechas exactas y significado personal, juega en la tanda de tiros libres contra el portero, recorre su cronología de vida luxury y desafía la trivia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
